@@ -73,7 +73,7 @@ navbar a.home {
 
 .display {
     height: 100vh;
-    background: url('../img/home.jpg') no-repeat;
+    background: url('../home.jpg') no-repeat;
     background-size: cover;
   display: flex;
   padding: 0 10%;
@@ -401,7 +401,7 @@ color: black;
 .about__img{
     position: relative;
     justify-self: center;
-    background-image: url(../img/b\ \(2\).png);
+    background-image: url(../b\ \(2\).png);
     background-size: cover;
     height: 50%;
     width: 50%;
