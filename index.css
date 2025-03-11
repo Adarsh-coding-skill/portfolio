@@ -73,7 +73,7 @@ navbar a.home {
 
 .display {
     height: 100vh;
-    background: url('home.jpg') no-repeat;
+    background: url(home.jpg) no-repeat;
     background-size: cover;
   display: flex;
   padding: 0 10%;
